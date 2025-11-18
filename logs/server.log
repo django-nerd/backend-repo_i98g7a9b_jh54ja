@@ -1,0 +1,23 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [156] using StatReload
+INFO:     Started server process [158]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:33664 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:59126 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59122 - "GET /api/owners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59126 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59122 - "GET /api/owners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59132 - "GET /api/theater HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59128 - "GET /api/video/current HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59122 - "GET /api/theater HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59132 - "GET /api/video/current HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59150 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59134 - "GET /api/video/current HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59150 - "GET /api/owners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49460 - "GET /api/theater HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49476 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59134 - "GET /api/video/current HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59150 - "GET /api/owners HTTP/1.1" 200 OK
+INFO:     172.20.0.1:49460 - "GET /api/theater HTTP/1.1" 200 OK
